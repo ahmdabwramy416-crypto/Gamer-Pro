@@ -1,0 +1,6 @@
+{
+  "name": "LootPlay - تطبيق الألعاب والمكافآت والربح",
+  "description": "تطبيق شدات ببجي موبايل (PUBG UC) بنظام النقاط الحصري عبر الدعوات والإحالات فقط، مع متجر استبدال أكواد Midasbuy، نظام حماية من الغش والـ VPN، ولوحة تحكم للمالك لمضاعفة أرباح إعلانات AdMob ومحاكي التوليد لـ Sketchware Pro v6.4.0-rc05.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
